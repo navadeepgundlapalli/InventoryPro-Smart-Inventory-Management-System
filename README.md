@@ -1,1 +1,1 @@
-# PWP-PROJECTS-
+InventoryPro – Smart Inventory Management System
